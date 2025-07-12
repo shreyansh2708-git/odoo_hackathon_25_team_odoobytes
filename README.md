@@ -11,6 +11,8 @@ request others in return
 
 ---
 
+Deployed link -https://odoo-hackathon-25-team-odoobytes.vercel.app/
+
 ## 🚀 Overview
 
 The **Skill Swap Platform** is built as a part of the **Odoo Hackathon '25**, under the theme of community-driven skill-sharing.
